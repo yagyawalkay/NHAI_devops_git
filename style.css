@@ -44,6 +44,9 @@ header h1 {
 /* Main Content */
 main {
     padding: 30px;
+    color: red;
+    font-size: large;
+    font-display: block;
 }
 
 .info-card {
